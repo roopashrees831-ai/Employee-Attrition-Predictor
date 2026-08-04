@@ -1,3 +1,1 @@
-## 🚀 Live Demo
-
-[Open App](https://r-employee-attrition-predictor.streamlit.app/)
+[r-employee-attrition-predictor.streamlit.app](https://r-employee-attrition-predictor.streamlit.app/)
