@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,BusinessTravel,Department,JobRole,Gender,MaritalStatus,MonthlyIncome,DistanceFromHome,TotalWorkingYears,YearsAtCompany,OverTime
+EMP001,John Smith,35,Travel_Rarely,Sales,Sales Executive,Male,Married,5000,5,10,5,No
+EMP002,Emily Johnson,29,Travel_Frequently,Research & Development,Research Scientist,Female,Single,3200,18,5,2,Yes
+EMP003,Michael Davis,41,Non-Travel,Human Resources,Human Resources,Male,Married,7000,4,18,12,No
+EMP004,Sophia Brown,31,Travel_Rarely,Sales,Sales Representative,Female,Single,2800,20,6,3,Yes
+EMP005,David Wilson,45,Travel_Frequently,Research & Development,Manager,Male,Married,12000,10,22,15,No
+EMP006,Olivia Taylor,27,Travel_Rarely,Research & Development,Laboratory Technician,Female,Single,3500,7,4,2,No
+EMP007,James Anderson,38,Non-Travel,Sales,Sales Executive,Male,Divorced,6500,3,14,8,No
+EMP008,Emma Thomas,33,Travel_Frequently,Human Resources,Human Resources,Female,Married,4300,15,9,4,Yes
+EMP009,Daniel Clark,30,Travel_Rarely,Research & Development,Manufacturing Director,Male,Single,8200,6,8,5,No
+EMP010,Ava Wilson,36,Travel_Rarely,Sales,Sales Executive,Female,Married,5400,8,11,6,No
