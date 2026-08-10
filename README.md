@@ -1,5 +1,15 @@
 # Employee Attrition Predictor
 
+## 🚀 Live Demo
+
+👉 **[Launch Employee Attrition Predictor](https://r-employee-atttition-predictor.streamlit.app/)**
+
+Try the live application here:
+
+https://r-employee-atttition-predictor.streamlit.app/
+
+---
+
 ## 📌 Project Overview
 
 Employee Attrition Predictor is a machine learning-based application designed to identify employees who may be at risk of leaving an organization.
@@ -51,10 +61,12 @@ The project also includes model comparison functionality for evaluating differen
 
 ## 📊 Features
 
-### Employee Selection
+### 👤 Employee Selection
+
 Select an employee from the available employee records.
 
-### Employee Profile
+### 🧑‍💼 Employee Profile
+
 Displays important employee information including:
 
 - Employee ID
@@ -62,7 +74,8 @@ Displays important employee information including:
 - Department
 - Job Role
 
-### Employment Details
+### 💼 Employment Details
+
 Displays:
 
 - Monthly Income
@@ -70,7 +83,8 @@ Displays:
 - Years at Company
 - Years in Current Role
 
-### Employee Insights
+### 🔍 Employee Insights
+
 Analyzes factors such as:
 
 - Job Satisfaction
@@ -78,7 +92,8 @@ Analyzes factors such as:
 - Work-Life Balance
 - Environment Satisfaction
 
-### Workload & Experience
+### ⏱️ Workload & Experience
+
 Displays workforce-related information such as:
 
 - Overtime
@@ -86,7 +101,8 @@ Displays workforce-related information such as:
 - Years With Manager
 - Training Times
 
-### Attrition Prediction
+### 📈 Attrition Prediction
+
 The system provides:
 
 - Attrition risk level
@@ -94,7 +110,7 @@ The system provides:
 - Likelihood to leave
 - Recommended actions
 
-### Risk Categories
+### 🚦 Risk Categories
 
 🟢 **Low Risk**
 
