@@ -2,11 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Launch Employee Attrition Predictor](https://r-employee-atttition-predictor.streamlit.app/)**
-
-Try the live application here:
-
-https://r-employee-atttition-predictor.streamlit.app/
+👉 [Launch Employee Attrition Predictor](https://r-employee-attrition-predictor.streamlit.app/)
 
 ---
 
@@ -101,7 +97,7 @@ Displays workforce-related information such as:
 - Years With Manager
 - Training Times
 
-### 📈 Attrition Prediction
+### 🔮 Attrition Prediction
 
 The system provides:
 
@@ -146,9 +142,6 @@ Employee-Attrition-Predictor/
 │
 ├── assets/
 │   └── logo.png
-│
-├── data/
-│   └── employees.csv
 │
 ├── models/
 │   ├── employee_attrition_model.pkl
